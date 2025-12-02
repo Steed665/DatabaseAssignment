@@ -1,7 +1,7 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Net.Sockets;
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 
 bool debug = true;
 
