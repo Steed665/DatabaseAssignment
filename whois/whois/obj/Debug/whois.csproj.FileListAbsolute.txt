@@ -1,2 +1,0 @@
-C:\Users\767490\source\repos\whois\whois\obj\Debug\whois.csproj.AssemblyReference.cache
-C:\Users\767490\source\repos\whois\whois\obj\Debug\whois.csproj.CoreCompileInputs.cache
