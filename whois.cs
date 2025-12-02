@@ -5,11 +5,10 @@ using System.Data.SqlClient;
 
 bool debug = true;
 
-// CHANGE THIS to your real connection string
 string connectionString =
-    "Server=localhost;Database=YourDatabaseName;Trusted_Connection=True;";
+    "Server=localhost;Database=AssignmentDatabase;Trusted_Connection=True;";
 
-// ====== DB helper functions ======
+
 
 string? GetUserIdForLogin(string loginId)
 {
