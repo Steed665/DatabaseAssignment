@@ -10,7 +10,7 @@ string connectionString =
 
 
 
-string? GetUserIdForLogin(string loginId)
+string GetUserIdForLogin(string loginId)
 {
     using var conn = new SqlConnection(connectionString);
     conn.Open();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\767490\\source\\repos\\whois\\whois\\whois.csproj": {}
+    "C:\\Users\\767490\\Source\\Repos\\NetworkDatabaseImplementation\\whois\\whois\\whois.csproj": {}
   },
   "projects": {
-    "C:\\Users\\767490\\source\\repos\\whois\\whois\\whois.csproj": {
+    "C:\\Users\\767490\\Source\\Repos\\NetworkDatabaseImplementation\\whois\\whois\\whois.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\767490\\source\\repos\\whois\\whois\\whois.csproj",
+        "projectUniqueName": "C:\\Users\\767490\\Source\\Repos\\NetworkDatabaseImplementation\\whois\\whois\\whois.csproj",
         "projectName": "whois",
-        "projectPath": "C:\\Users\\767490\\source\\repos\\whois\\whois\\whois.csproj",
+        "projectPath": "C:\\Users\\767490\\Source\\Repos\\NetworkDatabaseImplementation\\whois\\whois\\whois.csproj",
         "packagesPath": "C:\\Users\\767490\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\767490\\source\\repos\\whois\\whois\\obj\\",
+        "outputPath": "C:\\Users\\767490\\Source\\Repos\\NetworkDatabaseImplementation\\whois\\whois\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
