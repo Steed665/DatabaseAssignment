@@ -9,7 +9,7 @@ namespace whois
 {
     class Program
     {
-        static bool debug = true;
+        static bool debug = false;
 
         static string connStr =
             "Server=localhost;Database=AssignmentDatabase;Trusted_Connection=True;TrustServerCertificate=True;";
